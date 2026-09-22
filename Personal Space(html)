@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Space</title>
+</head>
+
+<body class="bg-dark text-white">
+
+<nav class="navbar navbar-dark bg-primary">
+    <div class="container">
+        <a class="navbar-brand" href="#">My Personal Space</a>
+    </div>
+</nav>
+
+<div class="container text-center mt-5">
+    <h1>I'm Keneath Arceo</h1>
+    <p>Welcome to my personal space.</p>
+</div>
+
+<div class="container mt-4">
+    <div class="card p-3">
+        <h2>About Me</h2>
+        <p>I'm a student in panpacific university currently taking web systems. I like gaming, reading, and listening to music.</p>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <h2 class="text-center">My Hobbies</h2>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card p-3 mt-3">
+                <h4>🎮 Gaming</h4>
+                <p>I enjoy playing games.</p>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card p-3 mt-3">
+                <h4>reading</h4>
+                <p>I like reading mangas and manhwas.</p>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card p-3 mt-3">
+                <h4>🎵 Music</h4>
+                <p>I enjoy listening to music.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="text-center mt-5 bg-primary p-3">
+    <p>My Personal Space</p>
+</div>
+
+</body>
+</html>
